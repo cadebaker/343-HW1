@@ -1,0 +1,1 @@
+Common GIT commands that will get used in the course are git init to create a local repository, git add to add files to the staging area, git commit to commit the changes to the repo, git log to see a history of the repo, and git checkout to use a different branch. In addition, we will also use git push -u origin master to push changes to the remote repository. 
